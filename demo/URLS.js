@@ -1813,6 +1813,394 @@ module.exports = {
   },
       
 
+        
+    /****************************** Algeria ***************************************/
+    
+     amelTv: {
+    url: 'http://player.mslivestream.net/mslive/27a2733c4bc60825f0386b5b333fac0e.sdp/tracks-v1a1/mono.m3u8',
+    description: 'Algeria - Amel TV'
+  },
+     canalAlgerie: {
+    url: 'http://www.elahmad.com/tv/m3u8/fr_xoyky_49.m3u8?id=algerie',
+    description: 'Algeria - Canal Algérie'
+  },
+     chaineNordAfricane: {
+    url: 'http://str81.creacast.com/cna/live.sdp/playlist.m3u8',
+    description: 'Algeria - Chaine Nord-Africaine'
+  },
+    
+    /****** Andhora *******/
+    
+     rtvaOne: {
+    url: 'http://videos.rtva.ad:1935/live/rtva/playlist.m3u8',
+    description: 'Andorra - RTVA 1'
+  },
+     rtvaTwo: {
+    url: 'http://videos.rtva.ad:1935/live/web/playlist.m3u8',
+    description: 'Andorra - RTVA 2'
+  },
+     rtvaThree: {
+    url: 'https://videos.rtva.ad/live/rtva/chunklist_w1082760031.m3u8',
+    description: 'Andorra - RTVA 3'
+  },
+     rtvaFour: {
+    url: 'https://videos.rtva.ad/live/web/chunklist_w1342231881.m3u8',
+    description: 'Andorra - RTVA 4'
+  },
+    
+    /********** Angola *********/
+     tpaOne: {
+    url: 'http://api.new.livestream.com/accounts/1181452/events/5141181/live.m3u8',
+    description: 'Angola - TPA 1'
+  },
+    
+    /********** Argentina *************/
+    
+     thirteenMaxOne: {
+    url: 'http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8',
+    description: 'Argentina - 13 Max 1'
+  },
+     thirteenMaxTwo: {
+    url: 'http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8',
+    description: 'Argentina - 13 Max 2'
+  },
+     canalDeNoticias: {
+    url: 'http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8',
+    description: 'Argentina - 24/7 Canal de Noticias'
+  },
+     fiveRTVSanta: {
+    url: 'http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8',
+    description: 'Argentina - 5RTV Santa Fe'
+  },
+     fiveTvCorrientes: {
+    url: 'http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8',
+    description: 'Argentina - 5TV Corrientes'
+  },
+     eightDigital: {
+    url: 'http://stream02.shockmedia.com.ar:1935/canal2tunuyan/_definst_/canal2tunuyan/chunklist.m3u8',
+    description: 'Argentina - 8 Digital'
+  },
+     nineMultivisionHd: {
+    url: 'http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8',
+    description: 'Argentina - 9 Multivision HD'
+  },
+     aireDeSanta: {
+    url: 'http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8',
+    description: 'Argentina - Aire de Santa Fe'
+  },
+     satlital: {
+    url: 'http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8',
+    description: 'Argentina - Argentinísima Satelital'
+  },
+     baBuenosAires: {
+    url: 'http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089',
+    description: 'Argentina - BA Buenos Aires'
+  },
+     canalTenCordoba: {
+    url: 'https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8',
+    description: 'Argentina - Canal 10 Cordoba'
+  },
+     canalTenGeneralRoca: {
+    url: 'https://59c5c86e10038.streamlock.net/8204/8204/chunklist_w47008160.m3u8',
+    description: 'Argentina - Canal 10 General Roca'
+  },
+     canalTenRioNegro: {
+    url: 'http://panel.dattalive.com:1935/8204/8204/playlist.m3u8',
+    description: 'Argentina - Canal 10 Rio Negro'
+  },
+     canalSeventeenMS: {
+    url: 'https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8?fluxustv.m3u8',
+    description: 'Argentina - Canal 17 Milenium Salta'
+  },
+     canalTwentySixOne: {
+    url: 'http://200.115.193.177/live/26hd-180/playlist.m3u8?GrupoTopIptv',
+    description: 'Argentina - Canal 26 1'
+  },
+     canalTwentySixTwo: {
+    url: 'http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8',
+    description: 'Argentina - Canal 26 2'
+  },
+     canalNewsTwentySixOne: {
+    url: 'http://200.115.193.177/live/26hd-720/.m3u8',
+    description: 'Argentina - Canal 26, News 1'
+  },
+     canalNewsTwentySixTwo: {
+    url: 'http://200.115.193.177/live/26hd-720/playlist.m3u8',
+    description: 'Argentina - Canal 26, News 2'
+  },
+     canalNewsTwentySixThree: {
+    url: 'http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8',
+    description: 'Argentina - Canal 26, News 3'
+  },
+     canalNewsTwentySixFour: {
+    url: 'http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8',
+    description: 'Argentina - Canal 26, News 4'
+  },
+     canalNewsTwentySixFive: {
+    url: 'http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8',
+    description: 'Argentina - Canal 26, News 5'
+  },
+     canalTwentySixThree: {
+    url: 'http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8',
+    description: 'Argentina - Canal 26 3'
+  },
+     canalTwentySixFour: {
+    url: 'http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8',
+    description: 'Argentina - Canal 26 4'
+  },
+     canalTwentySixFive: {
+    url: 'http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8',
+    description: 'Argentina - Canal 26 5'
+  },
+     canalThreePD: {
+    url: 'http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8',
+    description: 'Argentina - Canal 3 Pinamar Digital'
+  },
+     canalFourJujuy: {
+    url: 'https://5cd577a3dd8ec.streamlock.net/CAMARAS/live3/chunklist_w621402693.m3u8',
+    description: 'Argentina - Canal 4 Jujuy'
+  },
+     canalFourSanJuan: {
+    url: 'http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w931974462.m3u8',
+    description: 'Argentina - Canal 4 San Juan'
+  },
+     canalFourOneXFN: {
+    url: 'https://5b7f3c45ab7c2.streamlock.net/8172/8172/playlist.m3u8',
+    description: 'Argentina - Canal 41 XFN'
+  },
+     canalSOMDP: {
+    url: 'https://5b7f3c45ab7c2.streamlock.net/8096/8096/playlist.m3u8',
+    description: 'Argentina - Canal 79 Mar del Plata'
+  },
+     canalNineCRSD: {
+    url: 'http://live.canalnueve.tv:8082/hls/canal.m3u8',
+    description: 'Argentina - Canal 9 Comodoro Rivadavia SD'
+  },
+     canalNineL: {
+    url: 'http://panel.dattalive.com:1935/8250/8250/chunklist_w1259692347.m3u8',
+    description: 'Argentina - Canal 9 Litoral'
+  },
+     canalNineSaltaOne: {
+    url: 'http://panel.dattalive.com:1935/8250/8250/chunklist_w325606071.m3u8',
+    description: 'Argentina - Canal 9 Salta 1'
+  },
+     canalNineSaltaTwo: {
+    url: 'http://panel.dattalive.com:1935/8250/8250/playlist.m3u8',
+    description: 'Argentina - Canal 9 Salta 2'
+  },
+     canalNineSaltaThree: {
+    url: 'http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?GrupoTopIptv',
+    description: 'Argentina - Canal 9 Salta 3'
+  },
+     canalAcequia: {
+    url: 'http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8',
+    description: 'Argentina - Canal Acequia'
+  },
+     canalPSM: {
+    url: 'http://www.trimi.com.ar/provincial/streaming/mystream.m3u8',
+    description: 'Argentina - Canal Provincial San Miguel'
+  },
+     chacraTv: {
+    url: 'http://s8.stweb.tv:1935/chacra/live/chunks.m3u8',
+    description: 'Argentina - Chacra TV'
+  },
+     CiudadTvC: {
+    url: 'http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8',
+    description: 'Argentina - Ciudad TV Chaco'
+  },
+     cLThree: {
+    url: 'http://stream02.shockmedia.com.ar:1935/cl3cable/cl3cable/chunklist_w503758088.m3u8',
+    description: 'Argentina - CL3'
+  },
+     cNTFourBySeven: {
+    url: 'http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?fluxustv.m3u8',
+    description: 'Argentina - CN 24/7'
+  },
+     conexionAb: {
+    url: 'http://server1.mgmultimedios.com:8080/uai/live/chunks.m3u8',
+    description: 'Argentina - Conexion Abierta'
+  },
+     cPETv: {
+    url: 'http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8',
+    description: 'Argentina - CPEtv'
+  },
+     desiertoTv: {
+    url: 'http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8',
+    description: 'Argentina - Desierto TV (Chile)'
+  },
+     elGarage: {
+    url: 'http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8',
+    description: 'Argentina - El Garage'
+  },
+     elTvTenSalta: {
+    url: 'https://59c5c86e10038.streamlock.net/8098/8098/chunklist.m3u8',
+    description: 'Argentina - EL TV10 Salta'
+  },
+     fenixA: {
+    url: 'https://v3.ciclano.io:1443/fenixlarioja/_definst_/fenixlarioja/chunklist_w1713688974.m3u8',
+    description: 'Argentina - Fenix'
+  },
+     fMusicalTv: {
+    url: 'http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8',
+    description: 'Argentina - Frecuencia Musical TV'
+  },
+     garageTV: {
+    url: 'http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8',
+    description: 'Argentina - Garage TV'
+  },
+     lANTFM: {
+    url: 'http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8',
+    description: 'Argentina - LA 90 FM'
+  },
+     lCanalEleven: {
+    url: 'https://5b3050bb1b2d8.streamlock.net/tvcanal11/tvcanal11/chunks.m3u8',
+    description: 'Argentina - Lapacho Canal 11'
+  },
+     locomotionTv: {
+    url: 'http://locomotiontv.com/envivo/loco_channel/stream.m3u8',
+    description: 'Argentina - Locomotion TV'
+  },
+     multivisionATvOne: {
+    url: 'http://panel.dattalive.com:1935/8250/8250/.m3u8',
+    description: 'Argentina - Multivision Argentina 1'
+  },
+     multivisionATvTwo: {
+    url: 'http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8',
+    description: 'Argentina - Multivision Argentina 2'
+  },
+     multivisionATvThree: {
+    url: 'http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8?GrupoTopIptv',
+    description: 'Argentina - Multivision Argentina 3'
+  },
+     musicTopOne: {
+    url: 'http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8',
+    description: 'Argentina - Music Top 1'
+  },
+     musicTopTwo: {
+    url: 'http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8',
+    description: 'Argentina - Music Top 2'
+  },
+     musicTopThree: {
+    url: 'http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1582140541_b364000_sleng.m3u8',
+    description: 'Argentina - Music Top 3'
+  },
+     musicTopFour: {
+    url: 'http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8',
+    description: 'Argentina - Music Top 4'
+  },
+     musicTopFive: {
+    url: 'http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8',
+    description: 'Argentina - Music Top 5'
+  },
+     musicTopSix: {
+    url: 'http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8',
+    description: 'Argentina - Music Top 6'
+  },
+     musicTopSeven: {
+    url: 'http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8',
+    description: 'Argentina - Music Top 7'
+  },
+     netTvA: {
+    url: 'http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8',
+    description: 'Argentina - Net TV'
+  },
+     PinamarTWW: {
+    url: 'http://201.219.100.30:1935/camara-bunge/camara-bunge.stream_720p/master.m3u8',
+    description: 'Argentina - Pinamar - Telpin Webcam (New!)'
+  },
+     powerHD: {
+    url: 'http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8',
+    description: 'Argentina - Power HD'
+  },
+     radioDAFMLP: {
+    url: 'http://streamyes.alsolnet.com/radiodelairetv/live/playlist.m3u8?fluxustv.m3u8',
+    description: 'Argentina - Radio del Aire 89.5 FM La Plata'
+  },
+     rtnTvOne: {
+    url: 'http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8',
+    description: 'Argentina - RTN TV 1'
+  },
+     rtnTvTwo: {
+    url: 'http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8',
+    description: 'Argentina - RTN TV 2'
+  },
+     TFiveSate: {
+    url: 'http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8',
+    description: 'Argentina - T5 Satelital'
+  },
+     teleMax: {
+    url: 'http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8',
+    description: 'Argentina - Telemax'
+  },
+     teleNordCorr: {
+    url: 'http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8',
+    description: 'Argentina - TeleNord Corrientes'
+  },
+     teleredCR: {
+    url: 'http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8',
+    description: 'Argentina - Telered (Costa Rica)'
+  },
+     telepinTvOne: {
+    url: 'http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8',
+    description: 'Argentina - TelpinTV 1'
+  },
+     telepinTvTwo: {
+    url: 'http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8',
+    description: 'Argentina - TelpinTV 2'
+  },
+     tierramiaTv: {
+    url: 'https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b1864000_sleng.m3u8',
+    description: 'Argentina - Tierramia TV'
+  },
+     tlxOne: {
+    url: 'http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8',
+    description: 'Argentina - TLX 1'
+  },
+     tlxTwo: {
+    url: 'http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8',
+    description: 'Argentina - TLX 2'
+  },
+     tlxThree: {
+    url: 'http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8?GrupoTopIptv
+',
+    description: 'Argentina - TLX 3'
+  },
+     tlxFour: {
+    url: 'http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8',
+    description: 'Argentina - TLX 4'
+  },
+     tlxFive: {
+    url: 'http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?',
+    description: 'Argentina - TLX 5'
+  },
+     tlxSix: {
+    url: 'http://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8',
+    description: 'Argentina - TLX 6'
+  },
+     tlxSeven: {
+    url: 'http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8?tecnotv.info?iptv.m3u8',
+    description: 'Argentina - TLX 7'
+  },
+     tvManaOne: {
+    url: 'http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8?fluxustv.m3u8',
+    description: 'Argentina - TV Maná 1'
+  },
+     tvManaTwo: {
+    url: 'http://195.22.11.11:1935/tvmana/tvmana1/chunklist.m3u8',
+    description: 'Argentina - TV Maná 2'
+  },
+     tvMana: {
+    url: 'http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8',
+    description: 'Argentina - TV Máná Argentina'
+  },
+     tvTeleoroCanal: {
+    url: 'http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPR0008&mode=12',
+    description: 'Argentina - TV Teleoro Canal 13* (Dominican Republic)'
+  },
+     telamFour: {
+    url: 'http://184.154.28.210:1935/canal4/canal4/playlist.m3u8',
+    description: 'Argentina - Télam 4'
+  },
     
     
     
