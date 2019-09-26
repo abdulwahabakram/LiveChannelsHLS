@@ -1813,8 +1813,7 @@ module.exports = {
   },
       
 
-        
-    /****************************** Algeria ***************************************/
+       
     
      amelTv: {
     url: 'http://player.mslivestream.net/mslive/27a2733c4bc60825f0386b5b333fac0e.sdp/tracks-v1a1/mono.m3u8',
@@ -1828,9 +1827,7 @@ module.exports = {
     url: 'http://str81.creacast.com/cna/live.sdp/playlist.m3u8',
     description: 'Algeria - Chaine Nord-Africaine'
   },
-    
-    /****** Andhora *******/
-    
+     
      rtvaOne: {
     url: 'http://videos.rtva.ad:1935/live/rtva/playlist.m3u8',
     description: 'Andorra - RTVA 1'
@@ -1846,16 +1843,12 @@ module.exports = {
      rtvaFour: {
     url: 'https://videos.rtva.ad/live/web/chunklist_w1342231881.m3u8',
     description: 'Andorra - RTVA 4'
-  },
-    
-    /********** Angola *********/
+  }, 
      tpaOne: {
     url: 'http://api.new.livestream.com/accounts/1181452/events/5141181/live.m3u8',
     description: 'Angola - TPA 1'
   },
-    
-    /********** Argentina *************/
-    
+   
      thirteenMaxOne: {
     url: 'http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8',
     description: 'Argentina - 13 Max 1'
