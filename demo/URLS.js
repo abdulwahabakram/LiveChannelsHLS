@@ -2193,7 +2193,7 @@ module.exports = {
      telamFour: {
     url: 'http://184.154.28.210:1935/canal4/canal4/playlist.m3u8',
     description: 'Argentina - Télam 4'
-  },
+  }
     
     
     
